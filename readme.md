@@ -1,6 +1,6 @@
-# Project Title
+# CMarket backend using Go
 
-Short project description or overview.
+Backend of ECommerce Catalogue Page Mock Up <a href="https://github.com/Clovinlee/cmarket">[CMarket]</a>
 
 ## Table of Contents
 
