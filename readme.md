@@ -1,6 +1,6 @@
-# CMarket backend using Go
+# CMarket Backend With Java Springboot
 
-Backend of ECommerce Catalogue Page Mock Up <a href="https://github.com/Clovinlee/cmarket">[CMarket]</a>
+Backend of ECommerce Catalogue Page Mock Up <a href="https://github.com/Clovinlee/cmarket">[CMarket]</a> using java springboot.
 
 ## Table of Contents
 
