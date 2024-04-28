@@ -51,6 +51,6 @@ Here are the instructions to install and configure the project.
 
 5. Run the project
    ```
-   java cmarket.java
+   java cmarket
 
 **Note: Currently, I dont provide seed / migration in this backend, you can use the raw_db.sql for base data**
