@@ -32,7 +32,7 @@ List any software or dependencies required to run the project. Include links or 
 
 ### Installation
 
-Provide step-by-step instructions to install and configure the project.
+Here are the instructions to install and configure the project.
 
 1. Clone the repository:
 
