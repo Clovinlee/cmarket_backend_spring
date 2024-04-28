@@ -37,7 +37,7 @@ Here are the instructions to install and configure the project.
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/username/project.git
+   git clone https://github.com/Clovinlee/cmarket_backend_spring
 
 2. Init project dependency using gradle
    ```sh
